@@ -1,0 +1,25 @@
+{
+  "name": "usage",
+  "version": "1.0.0",
+  "description": "CPU and Memory Testing for Node Modules",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PropelJS/usage.git"
+  },
+  "keywords": [
+    "usage",
+    "PropelJS",
+    "CPU",
+    "memory"
+  ],
+  "author": "Joshwa Fugett <jfugett27@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PropelJS/usage/issues"
+  },
+  "homepage": "https://github.com/PropelJS/usage"
+}
